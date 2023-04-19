@@ -1,0 +1,10 @@
+{
+  "id": "obsidian-plugin-hundred-day-english",
+  "name": "Hundred-day English",
+  "version": "1.0.0",
+  "minAppVersion": "0.12.0",
+  "description": "Hundred-day English",
+  "author": "qinran0423",
+  "authorUrl": "https://github.com/qinran0423",
+  "isDesktopOnly": false
+}
